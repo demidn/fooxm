@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/demidn/fooxm/issues"
   },
-  "homepage": "https://github.com/demidn/fooxm#readme"
+  "homepage": "https://github.com/demidn/fooxm#readme",
+  "dependencies": {
+    "sendgrid": "^5.2.3"
+  }
 }

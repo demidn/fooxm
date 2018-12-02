@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/demidn/fooxm#readme",
   "dependencies": {
+    "@sendgrid/mail": "^6.3.1",
     "sendgrid": "^5.2.3"
   }
 }
